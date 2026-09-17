@@ -33,7 +33,8 @@ The dataset contains academic records of 1,000 students including:
 * Test preparation is associated with higher math performance.
 * Reading and writing scores have a strong positive correlation.
 * Performance across math, reading, and writing shows strong relationships.
+
   ---
   
-✅ **Conclusion**
+ ## ✅ Conclusion
  *This project demonstrates the practical application of Exploratory Data Analysis, statistical analysis, and data visualization to understand student academic performance and discover meaningful patterns in educational data.*
